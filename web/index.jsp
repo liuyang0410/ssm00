@@ -13,6 +13,7 @@
     <title>首页</title>
   </head>
   <body>
+  <h2>你好</h2>
 <img src="resources" alt="">
   </body>
 </html>
