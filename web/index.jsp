@@ -8,6 +8,7 @@
   </head>
   <body>
   <h2>你好</h2>
+  <h2>你好</h2>
 <img src="resources" alt="">
   </body>
 </html>
